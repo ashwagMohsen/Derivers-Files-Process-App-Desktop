@@ -1,0 +1,61 @@
+C:\Users\T\Documents\Visual Studio 2015\Projects\BAM 1\BAM 1\bin\Debug\BAM 1.exe.config
+C:\Users\T\Documents\Visual Studio 2015\Projects\BAM 1\BAM 1\bin\Debug\BAM 1.exe
+C:\Users\T\Documents\Visual Studio 2015\Projects\BAM 1\BAM 1\bin\Debug\BAM 1.pdb
+C:\Users\T\Documents\Visual Studio 2015\Projects\BAM 1\BAM 1\obj\Debug\BAM_1.Form1.resources
+C:\Users\T\Documents\Visual Studio 2015\Projects\BAM 1\BAM 1\obj\Debug\BAM_1.Properties.Resources.resources
+C:\Users\T\Documents\Visual Studio 2015\Projects\BAM 1\BAM 1\obj\Debug\BAM 1.csproj.GenerateResource.Cache
+C:\Users\T\Documents\Visual Studio 2015\Projects\BAM 1\BAM 1\obj\Debug\BAM 1.exe
+C:\Users\T\Documents\Visual Studio 2015\Projects\BAM 1\BAM 1\obj\Debug\BAM 1.pdb
+C:\Users\T\Documents\Visual Studio 2015\Projects\BAM 1\BAM 1\obj\Debug\BAM 1.csprojResolveAssemblyReference.cache
+C:\Users\T\Documents\Visual Studio 2015\Projects\BAM 1\BAM 1\obj\Debug\BAM_1.Form2.resources
+C:\Users\T\Documents\Visual Studio 2015\Projects\BAM 1\BAM 1\obj\Debug\BAM_1.Form3.resources
+C:\Users\T\Documents\Visual Studio 2015\Projects\BAM 1\BAM 1\obj\Debug\BAM_1.Form4.resources
+E:\مستوى_ثاني\term2\khaledd\projects\BAM 1\BAM 1\bin\Debug\BAM 1.exe.config
+E:\مستوى_ثاني\term2\khaledd\projects\BAM 1\BAM 1\obj\Debug\BAM 1.exe
+E:\مستوى_ثاني\term2\khaledd\projects\BAM 1\BAM 1\obj\Debug\BAM 1.pdb
+E:\مستوى_ثاني\term2\khaledd\projects\BAM 1\BAM 1\bin\Debug\BAM 1.exe
+E:\مستوى_ثاني\term2\khaledd\projects\BAM 1\BAM 1\bin\Debug\BAM 1.pdb
+E:\مستوى_ثاني\term2\khaledd\projects\BAM 1\BAM 1\obj\Debug\BAM 1.csprojResolveAssemblyReference.cache
+E:\مستوى_ثاني\term2\khaledd\projects\BAM 1\BAM 1\obj\Debug\BAM_1.Form1.resources
+E:\مستوى_ثاني\term2\khaledd\projects\BAM 1\BAM 1\obj\Debug\BAM_1.Form2.resources
+E:\مستوى_ثاني\term2\khaledd\projects\BAM 1\BAM 1\obj\Debug\BAM_1.Form3.resources
+E:\مستوى_ثاني\term2\khaledd\projects\BAM 1\BAM 1\obj\Debug\BAM_1.Form4.resources
+E:\مستوى_ثاني\term2\khaledd\projects\BAM 1\BAM 1\obj\Debug\BAM_1.Properties.Resources.resources
+E:\مستوى_ثاني\term2\khaledd\projects\BAM 1\BAM 1\obj\Debug\BAM 1.csproj.GenerateResource.Cache
+I:\BAM 1\BAM 1\bin\Debug\BAM 1.exe.config
+I:\BAM 1\BAM 1\obj\Debug\BAM 1.exe
+I:\BAM 1\BAM 1\obj\Debug\BAM 1.pdb
+I:\BAM 1\BAM 1\bin\Debug\BAM 1.exe
+I:\BAM 1\BAM 1\bin\Debug\BAM 1.pdb
+I:\BAM 1\BAM 1\obj\Debug\BAM 1.csprojResolveAssemblyReference.cache
+I:\BAM 1\BAM 1\obj\Debug\BAM_1.Form1.resources
+I:\BAM 1\BAM 1\obj\Debug\BAM_1.Form2.resources
+I:\BAM 1\BAM 1\obj\Debug\BAM_1.Form3.resources
+I:\BAM 1\BAM 1\obj\Debug\BAM_1.Form4.resources
+I:\BAM 1\BAM 1\obj\Debug\BAM_1.Properties.Resources.resources
+I:\BAM 1\BAM 1\obj\Debug\BAM 1.csproj.GenerateResource.Cache
+C:\Users\T\Desktop\عهد بامطرف واشواق الديباني ومزنة باعشن وبشرى العشاري\BAM 1\bin\Debug\BAM 1.exe.config
+C:\Users\T\Desktop\عهد بامطرف واشواق الديباني ومزنة باعشن وبشرى العشاري\BAM 1\obj\Debug\BAM 1.exe
+C:\Users\T\Desktop\عهد بامطرف واشواق الديباني ومزنة باعشن وبشرى العشاري\BAM 1\obj\Debug\BAM 1.pdb
+C:\Users\T\Desktop\عهد بامطرف واشواق الديباني ومزنة باعشن وبشرى العشاري\BAM 1\bin\Debug\BAM 1.exe
+C:\Users\T\Desktop\عهد بامطرف واشواق الديباني ومزنة باعشن وبشرى العشاري\BAM 1\bin\Debug\BAM 1.pdb
+C:\Users\T\Desktop\عهد بامطرف واشواق الديباني ومزنة باعشن وبشرى العشاري\BAM 1\obj\Debug\BAM 1.csprojResolveAssemblyReference.cache
+C:\Users\T\Desktop\عهد بامطرف واشواق الديباني ومزنة باعشن وبشرى العشاري\BAM 1\obj\Debug\BAM_1.Form1.resources
+C:\Users\T\Desktop\عهد بامطرف واشواق الديباني ومزنة باعشن وبشرى العشاري\BAM 1\obj\Debug\BAM_1.Form2.resources
+C:\Users\T\Desktop\عهد بامطرف واشواق الديباني ومزنة باعشن وبشرى العشاري\BAM 1\obj\Debug\BAM_1.Form3.resources
+C:\Users\T\Desktop\عهد بامطرف واشواق الديباني ومزنة باعشن وبشرى العشاري\BAM 1\obj\Debug\BAM_1.Form4.resources
+C:\Users\T\Desktop\عهد بامطرف واشواق الديباني ومزنة باعشن وبشرى العشاري\BAM 1\obj\Debug\BAM_1.Properties.Resources.resources
+C:\Users\T\Desktop\عهد بامطرف واشواق الديباني ومزنة باعشن وبشرى العشاري\BAM 1\obj\Debug\BAM 1.csproj.GenerateResource.Cache
+C:\Users\pcc\Desktop\New folder\عهد بامطرف واشواق الديباني ومزنة باعشن وبشرى العشاري\BAM 1\bin\Debug\BAM 1.exe.config
+C:\Users\pcc\Desktop\New folder\عهد بامطرف واشواق الديباني ومزنة باعشن وبشرى العشاري\BAM 1\bin\Debug\BAM 1.exe
+C:\Users\pcc\Desktop\New folder\عهد بامطرف واشواق الديباني ومزنة باعشن وبشرى العشاري\BAM 1\bin\Debug\BAM 1.pdb
+C:\Users\pcc\Desktop\New folder\عهد بامطرف واشواق الديباني ومزنة باعشن وبشرى العشاري\BAM 1\obj\Debug\BAM 1.csprojAssemblyReference.cache
+C:\Users\pcc\Desktop\New folder\عهد بامطرف واشواق الديباني ومزنة باعشن وبشرى العشاري\BAM 1\obj\Debug\BAM_1.Form1.resources
+C:\Users\pcc\Desktop\New folder\عهد بامطرف واشواق الديباني ومزنة باعشن وبشرى العشاري\BAM 1\obj\Debug\BAM_1.Form2.resources
+C:\Users\pcc\Desktop\New folder\عهد بامطرف واشواق الديباني ومزنة باعشن وبشرى العشاري\BAM 1\obj\Debug\BAM_1.Form3.resources
+C:\Users\pcc\Desktop\New folder\عهد بامطرف واشواق الديباني ومزنة باعشن وبشرى العشاري\BAM 1\obj\Debug\BAM_1.Form4.resources
+C:\Users\pcc\Desktop\New folder\عهد بامطرف واشواق الديباني ومزنة باعشن وبشرى العشاري\BAM 1\obj\Debug\BAM_1.Properties.Resources.resources
+C:\Users\pcc\Desktop\New folder\عهد بامطرف واشواق الديباني ومزنة باعشن وبشرى العشاري\BAM 1\obj\Debug\BAM 1.csproj.GenerateResource.cache
+C:\Users\pcc\Desktop\New folder\عهد بامطرف واشواق الديباني ومزنة باعشن وبشرى العشاري\BAM 1\obj\Debug\BAM 1.csproj.CoreCompileInputs.cache
+C:\Users\pcc\Desktop\New folder\عهد بامطرف واشواق الديباني ومزنة باعشن وبشرى العشاري\BAM 1\obj\Debug\BAM 1.exe
+C:\Users\pcc\Desktop\New folder\عهد بامطرف واشواق الديباني ومزنة باعشن وبشرى العشاري\BAM 1\obj\Debug\BAM 1.pdb
